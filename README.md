@@ -1,9 +1,9 @@
 <p align="center">
-Projeto de um site desktop de portfólio para desenvolvedores, com links para projetos e contato do profissional.
+Este é um projeto de interface de um formulário de inscrição para escolas.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/IsabelyMartiniano/portfolio-dev/blob/main/portfolio/image/Thumbnail.png">
+  <img alt="License" src="https://github.com/IsabelyMartiniano/registration-form/blob/main/registration-form/image/Thumbnail.png">
 </p>
 
 <br>
@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Criado e desenvolvido com práticas em CSS: layouts, posicionamento de elementos, variáveis, flexbox, grid, pseudo-class e pseudo-elements.
+Criado e desenvolvido com práticas em: formulário HTML, Input(texto,data e arquivo), estilização de inputs e formulários com CSS
